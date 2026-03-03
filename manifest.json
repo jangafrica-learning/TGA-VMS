@@ -1,6 +1,6 @@
 {
-  "name": "TGA Student Resource Folders",
-  "short_name": "TGA SRC",
+  "name": "TGA Vehicle Management System",
+  "short_name": "TGA VMS",
   "description": "A centralized digital request system for managing staff and student service requests efficiently.",
   "start_url": "./index.html",
   "display": "standalone",
